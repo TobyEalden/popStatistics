@@ -1,0 +1,22 @@
+{
+  "name": "popstatistics",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "assert": "^1.4.1",
+    "bluebird": "^3.4.6",
+    "debug": "^2.2.0",
+    "ipaddr.js": "^1.2.0",
+    "lodash": "^4.16.6",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "nqm-api-tdx": "^0.1.19",
+    "nqm-databot-utils": "^0.1.11",
+    "rimraf": "^2.5.4",
+    "yauzl": "^2.7.0"
+  }
+}
